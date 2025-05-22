@@ -18,6 +18,9 @@ project:
   toc:
     - file: README.md
     - file: notebooks/run-unravel.ipynb
+    - file: notebooks/coldpool-downdraft.ipynb
+    - file: notebooks/updraft-tracking.ipynb
+    - file: notebooks/plt_csapr.ipynb
 site:
   template: book-theme
   # Modify this section with the logos of your choice
