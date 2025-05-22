@@ -1,7 +1,15 @@
-name: hackathon-template-github-dev
+name: bnf-deep-convection-dev
 channels:
   - conda-forge
 dependencies:
   - python=3.11
   - mystmd
   - cookiecutter
+  - arm_pyart
+  - jupyterlab
+  - pydda
+  - xarray
+  - act-atmos
+  - pip
+  - pip:
+      - unravel
