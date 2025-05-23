@@ -20,7 +20,9 @@ project:
     - file: notebooks/run-unravel.ipynb
     - file: notebooks/coldpool-downdraft.ipynb
     - file: notebooks/updraft-tracking.ipynb
+    - file: notebooks/GateFilters.ipynb
     - file: notebooks/plt_csapr.ipynb
+    - file: notebooks/run-pydda-may-20-2025.ipynb
 site:
   template: book-theme
   # Modify this section with the logos of your choice
