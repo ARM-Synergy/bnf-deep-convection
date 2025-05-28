@@ -33,6 +33,7 @@ project:
     - file: notebooks/GateFilters.ipynb
     - file: notebooks/plt_csapr.ipynb
     - file: notebooks/run-pydda-may-20-2025.ipynb
+    - file: "coldpool_timeseries-QVP (1).ipynb"
     - file: brightness-temperature-tracking.ipynb
 site:
   template: book-theme
