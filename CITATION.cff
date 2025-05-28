@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use the findings and workflows, please cite it as below."
+authors:
+  # add additional entries for each author -- see https://github.com/citation-file-format/citation-file-format/blob/main/schema-guide.md
+  - family-names: Britton
+    given-names: Kyra
+    orcid: https://orcid.org/0009-0003-4888-8344 # optional
+    affiliation: The University of Alabama in Huntsville
+  - family-names: Chui 
+    given-names: Angel
+    orcid: https://orcid.org/0009-0003-1603-6024 # optional
+    affiliation: The University of Washington
+  - family-names: Weinstein
+    given-names: Rebecca
+    orcid: https://orcid.org/0009-0004-1673-0929 # optional
+    affiliation: The University of Virginia
+  - family-names: Melissa
+    given-names: Zavaleta
+    orcid: https://orcid.org/0009-0008-6270-0383 # optional
+    affiliation: Florida Institute of Technology
+  - family-names: Giangrande
+    given-names: Scott
+    orcid: https://orcid.org/0000-0002-8119-8199 # optional
+    affiliation: Brookhaven National Laboratory
+  - family-names: Grover
+    given-names: Maxwell
+    orcid: https://orcid.org/0000-0001-6731-0888 # optional
+    affiliation: Argonne National Laboratory
+  - family-names: Freeman
+    given-names: Sean
+    orcid: https://orcid.org/0000-0002-7398-1597 # optional
+    affiliation: The University of Alabama in Huntsville
+  - family-names: Dolan
+    given-names: Brenda
+    orcid: https://orcid.org/0000-0003-2170-0164
+    affiliation: Colorado State University
+  - family-names: Rausch
+    given-names: John
+    orcid: https://orcid.org/0000-0003-3368-5408
+    affiliation: Brookhaven National Laboratory
+  
+ 
