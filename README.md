@@ -1,6 +1,6 @@
 # BNF Deep Convection
 
-[![DOI](https://zenodo.org/badge/987780159.svg)](https://doi.org/10.5281/zenodo.15540080)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15546200.svg)](https://doi.org/10.5281/zenodo.15546200)
 
 Project repository for the BNF Deep Convection ARM Summer School Group
 
