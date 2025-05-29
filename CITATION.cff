@@ -15,8 +15,8 @@ authors:
     given-names: Rebecca
     orcid: https://orcid.org/0009-0004-1673-0929 # optional
     affiliation: The University of Virginia
-  - family-names: Melissa
-    given-names: Zavaleta
+  - family-names: Zavaleta 
+    given-names: Melissa
     orcid: https://orcid.org/0009-0008-6270-0383 # optional
     affiliation: Florida Institute of Technology
   - family-names: Giangrande
